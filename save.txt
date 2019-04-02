@@ -1,0 +1,2 @@
+kami:6
+kamil:8
